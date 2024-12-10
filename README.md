@@ -1,5 +1,3 @@
-# AOS - ASSIGNMENT-2
-
 **BIT-TORRENT - PEER TO PEER FILE SHARING SYSTEM**
 
 - In this assignment I have implmented a ```Mini Bit-Torrent``` which is a peer-to-peer file sharing system. 
